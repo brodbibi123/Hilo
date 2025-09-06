@@ -177,10 +177,10 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 Window = Fluent:CreateWindow({
     Title = "hideptraihub",
     SubTitle="Blox Fruits", 
-    TabWidth=155, 
+    TabWidth=150, 
     Theme="Darker",
     Acrylic=false,
-    Size=UDim2.fromOffset(555, 320), 
+    Size=UDim2.fromOffset(495, 300), 
     MinimizeKey = Enum.KeyCode.LeftControl
 })
 local Tabs = {
